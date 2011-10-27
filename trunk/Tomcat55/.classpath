@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Tomcat55/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="lib/catalina-optional.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/catalina.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-modeler-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jasper-compiler-jdt.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jasper-compiler.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jasper-runtime.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/naming-factory.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/naming-resources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/servlets-default.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/tomcat-coyote.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/tomcat-http.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/tomcat-util.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
